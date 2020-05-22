@@ -89,3 +89,13 @@ Started GET "/posts/new" for 108.50.174.148 at 2020-05-22 06:27:48 +0000
 Processing by PostsController#new as HTML
   Rendering posts/new.html.erb within layouts/application
   Rendered posts/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 325ms (Views: 317.5ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/posts/new" for 108.50.174.148 at 2020-05-22 06:31:36 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
